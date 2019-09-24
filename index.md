@@ -1,91 +1,89 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joe W. Hicks CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joe Hicks CV
+Data Scientist, Statistician, Mathematician
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Phone: (907)-903-5201  
+Email: joe.hicks.5201@gmail.com  
+Residence: Boise, ID   
 
+## Work History
 
-## Currently
+#### Ookla, Seattle WA
+*speedtest.net*  
+*Data Scientist & Data Engineer (2017-present)*
+- Metric development
+- Automated hypothesis testing
+- Pipeline A/B testing prod vs dev
+- Fraud/Anomaly detection
+- Shiny App development
+- Query development and performance tuning
+- Deep dive analysis and reporting
 
-Standing on the shoulders of giants
+#### Fred Hutchinson Cancer Research Center, Seattle WA
+*SCHARP, CAVD DataSpace*  
+*Informatics Analyst Programmer (2015-2017)*  
+- generated tables, lists, and figures
+- Programming: R, SAS, Python, SQL
+- Data management of clinical trials data
+- Developed data quality control protocols
+- Extract Transform Load (ETL) processes
+- Data aggregation, breaking down data silos
 
-### Specialized in
+#### IMB Solutions, Moscow ID
+*Statistics Consultant (part-time summer 2015)*<br>
+- Statistical analysis of Kootenai Health medicare billing, over payment estimation.
+- Areas of focus: sampling validation and experiment design
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Teaching Assistant
+*Statistics Advisory Center (2013-2015)*  
+*University of Idaho, Moscow ID*  
+*Instructor & Tutor*  
+- Teaching statistics to undergraduate and graduate students
+- Graded student work and maintained online grade book
+- Assisted students with analysis tools (R, SAS)
+- Led an intro R and SAS boot camp
 
+#### Internship
+*U.S.Fish and Wildlife Service (2014)*  
+*USFW Anchorage AK*  
+- Assisted statistician in meta-study of Juvenile Coho Salmon
+- Gathered data from organizations in a professional and persistent manner
+- Programmatically aggregated and cleaned data
+- Kept comprehensive version control, records, and logs
 
-### Research interests
+#### Private Tutor
+*Math and Stats, Self Employed (2008-2015)*  
+*Anchorage AK, Moscow ID*
+- Math: Algebra, Calculus, Differential Equations, Linear Algebra, general programming
+- Stats: Intro statistics, Statistics for Engineers, probability Theory, stat programming
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+#### Data Report Designer
+*Spokane Bakery Supply (part-time 2014-present)*  
+*Spokane WA*
+- Designed and automated business reports
+- SQL templating
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+#### Master of Science in Statistical Science
+*University of Idaho Class of 2015*  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+#### Bachelors of Science in Mathematics/Minor in Statistics
+*University of Alaska Anchorage Class of 2013*
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Technical Skills
+|Skill|Years|Description|
+|-|-|-|
+| R	programming | 10 | Package development, shiny development, high level R programmer |
+| Python | 6 | ML and scientific programming |
+| Unix systems | 6 | Open Suse, Ubuntu, bash |
+| Markdown | 6 | Report writing and reporting |
+| SAS	| 4 |	CDISC training on ADaM data sets (FDA standard) |
+| GitHub | 4 |	https://github.com/joewhicks |
+| PostgreSQL | 4 |	Personal database for data projects |
+| AWS Redshift | 2 | Query development and tuning on large data sets |
+| AWS Athena | 2 |Query unstructured JSON |
+| Apache Airflow | 2 | Creating DAGs, and templating sql for auto-monitoring |
