@@ -9,8 +9,6 @@ Phone: (907)-903-5201
 Email: joe.hicks.5201@gmail.com  
 Residence: Boise, ID   
 
-# Work History
-
 ## Ookla, Seattle WA
 * speedtest.net
 * Data Scientist & Data Engineer (2017-present) 
@@ -65,8 +63,6 @@ Residence: Boise, ID
 *Spokane WA*
 - Designed and automated business reports
 - SQL templating
-
-Education
 
 ## Master of Science in Statistical Science
 *University of Idaho Class of 2015*  
