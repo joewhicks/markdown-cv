@@ -71,7 +71,7 @@ Residence: Boise, ID
 *University of Alaska Anchorage Class of 2013*
 
 ## Technical Skills  
-- R	programming      (10 years): Package development, shiny development, high level R programmer
+- R	programming      (10 years): Package and shiny dev, high level R programmer
 - Python programming (6 years): ML and scientific programming 
 - Unix systems       (6 years): Open Suse, Ubuntu, bash
 - Markdown           (6 years): Report writing and reporting
