@@ -12,8 +12,8 @@ Residence: Boise, ID
 # Work History
 
 ## Ookla, Seattle WA
-*speedtest.net*  
-*Data Scientist & Data Engineer (2017-present)*
+* speedtest.net
+* Data Scientist & Data Engineer (2017-present) 
 - Metric development
 - Automated hypothesis testing
 - Pipeline A/B testing prod vs dev
