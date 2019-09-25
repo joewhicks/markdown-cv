@@ -9,9 +9,9 @@ Phone: (907)-903-5201
 Email: joe.hicks.5201@gmail.com  
 Residence: Boise, ID   
 
-## Work History
+# Work History
 
-#### Ookla, Seattle WA
+## Ookla, Seattle WA
 *speedtest.net*  
 *Data Scientist & Data Engineer (2017-present)*
 - Metric development
@@ -22,7 +22,7 @@ Residence: Boise, ID
 - Query development and performance tuning
 - Deep dive analysis and reporting
 
-#### Fred Hutchinson Cancer Research Center, Seattle WA
+## Fred Hutchinson Cancer Research Center, Seattle WA
 *SCHARP, CAVD DataSpace*  
 *Informatics Analyst Programmer (2015-2017)*  
 - generated tables, lists, and figures
@@ -32,12 +32,12 @@ Residence: Boise, ID
 - Extract Transform Load (ETL) processes
 - Data aggregation, breaking down data silos
 
-#### IMB Solutions, Moscow ID
+## IMB Solutions, Moscow ID
 *Statistics Consultant (part-time summer 2015)*<br>
 - Statistical analysis of Kootenai Health medicare billing, over payment estimation.
 - Areas of focus: sampling validation and experiment design
 
-### Teaching Assistant
+## Teaching Assistant
 *Statistics Advisory Center (2013-2015)*  
 *University of Idaho, Moscow ID*  
 *Instructor & Tutor*  
@@ -46,7 +46,7 @@ Residence: Boise, ID
 - Assisted students with analysis tools (R, SAS)
 - Led an intro R and SAS boot camp
 
-#### Internship
+## Internship
 *U.S.Fish and Wildlife Service (2014)*  
 *USFW Anchorage AK*  
 - Assisted statistician in meta-study of Juvenile Coho Salmon
@@ -54,36 +54,36 @@ Residence: Boise, ID
 - Programmatically aggregated and cleaned data
 - Kept comprehensive version control, records, and logs
 
-#### Private Tutor
+## Private Tutor
 *Math and Stats, Self Employed (2008-2015)*  
 *Anchorage AK, Moscow ID*
 - Math: Algebra, Calculus, Differential Equations, Linear Algebra, general programming
 - Stats: Intro statistics, Statistics for Engineers, probability Theory, stat programming
 
-#### Data Report Designer
+## Data Report Designer
 *Spokane Bakery Supply (part-time 2014-present)*  
 *Spokane WA*
 - Designed and automated business reports
 - SQL templating
 
-## Education
+# Education
 
-#### Master of Science in Statistical Science
+## Master of Science in Statistical Science
 *University of Idaho Class of 2015*  
 
-#### Bachelors of Science in Mathematics/Minor in Statistics
+## Bachelors of Science in Mathematics/Minor in Statistics
 *University of Alaska Anchorage Class of 2013*
 
-## Technical Skills
-|Skill|Years|Description|
-|-|-|-|
-| R	programming | 10 | Package development, shiny development, high level R programmer |
-| Python | 6 | ML and scientific programming |
-| Unix systems | 6 | Open Suse, Ubuntu, bash |
-| Markdown | 6 | Report writing and reporting |
-| SAS	| 4 |	CDISC training on ADaM data sets (FDA standard) |
-| GitHub | 4 |	https://github.com/joewhicks |
-| PostgreSQL | 4 |	Personal database for data projects |
-| AWS Redshift | 2 | Query development and tuning on large data sets |
-| AWS Athena | 2 |Query unstructured JSON |
-| Apache Airflow | 2 | Creating DAGs, and templating sql for auto-monitoring |
+## Technical Skills  
+| Skill          | Years | Description                                                     |
+|----------------|-------|-----------------------------------------------------------------|
+| R	programming  | 10    | Package development, shiny development, high level R programmer |
+| Python         | 6     | ML and scientific programming                                   |
+| Unix systems   | 6     | Open Suse, Ubuntu, bash                                         |
+| Markdown       | 6     | Report writing and reporting                                    |
+| SAS            | 4     | CDISC training on ADaM data sets (FDA standard)                 |
+| GitHub         | 4     | https://github.com/joewhicks                                    |
+| PostgreSQL     | 4     | Personal database for data projects                             |
+| AWS Redshift   | 2     | Query development and tuning on large data sets                 |
+| AWS Athena     | 2     | Query unstructured JSON                                         |
+| Apache Airflow | 2     | Creating DAGs, and templating sql for auto-monitoring           |
