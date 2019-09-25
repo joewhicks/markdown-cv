@@ -76,10 +76,8 @@ Residence: Boise, ID
 - Designed and automated business reports
 - SQL templating
 
-## Master of Science in Statistical Science
-University of Idaho Class of 2015
-
-## Bachelors of Science in Mathematics/Minor in Statistics
-*University of Alaska Anchorage Class of 2013*
+## Education
+Master of Science in Statistical Science, University of Idaho Class of 2015
+Bachelors of Science in Mathematics/Minor in Statistics, University of Alaska Anchorage Class of 2013
 
 
