@@ -10,7 +10,7 @@ Email: joe.hicks.5201@gmail.com
 Residence: Boise, ID   
 
 ## Technical Skills  
-- R	programming      (10 years): Package and shiny dev, high level R programmer
+\- R	programming      (10 years): Package and shiny dev, high level R programmer
 - Python programming (6 years): ML and scientific programming 
 - Unix systems       (6 years): Open Suse, Ubuntu, bash
 - Markdown           (6 years): Report writing and reporting
