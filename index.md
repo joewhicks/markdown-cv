@@ -66,7 +66,7 @@ Residence: Boise, ID
 - Designed and automated business reports
 - SQL templating
 
-# Education
+Education
 
 ## Master of Science in Statistical Science
 *University of Idaho Class of 2015*  
@@ -75,15 +75,13 @@ Residence: Boise, ID
 *University of Alaska Anchorage Class of 2013*
 
 ## Technical Skills  
-| Skill          | Years | Description                                                     |
-|----------------|-------|-----------------------------------------------------------------|
-| R	programming  | 10    | Package development, shiny development, high level R programmer |
-| Python         | 6     | ML and scientific programming                                   |
-| Unix systems   | 6     | Open Suse, Ubuntu, bash                                         |
-| Markdown       | 6     | Report writing and reporting                                    |
-| SAS            | 4     | CDISC training on ADaM data sets (FDA standard)                 |
-| GitHub         | 4     | https://github.com/joewhicks                                    |
-| PostgreSQL     | 4     | Personal database for data projects                             |
-| AWS Redshift   | 2     | Query development and tuning on large data sets                 |
-| AWS Athena     | 2     | Query unstructured JSON                                         |
-| Apache Airflow | 2     | Creating DAGs, and templating sql for auto-monitoring           |
+- R	programming      (10 years): Package development, shiny development, high level R programmer
+- Python programming (6 years): ML and scientific programming 
+- Unix systems       (6 years): Open Suse, Ubuntu, bash
+- Markdown           (6 years): Report writing and reporting
+- SAS                (4 years): CDISC training on ADaM data sets (FDA standard)
+- GitHub             (4 years): https://github.com/joewhicks
+- PostgreSQL         (4 years): Personal database for data projects
+- AWS Redshift       (2 years): Query development and tuning on large data sets
+- AWS Athena         (2 years): Query unstructured JSON
+- Apache Airflow     (2 years): Creating DAGs, and templating sql for auto-monitoring
