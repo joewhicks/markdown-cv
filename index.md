@@ -77,7 +77,7 @@ Residence: Boise, ID
 - SQL templating
 
 ## Master of Science in Statistical Science
-*University of Idaho Class of 2015*  
+University of Idaho Class of 2015
 
 ## Bachelors of Science in Mathematics/Minor in Statistics
 *University of Alaska Anchorage Class of 2013*
