@@ -22,7 +22,7 @@ Residence: Boise, ID
 \- *Apache Airflow*     (2 years): Creating DAGs, and templating sql for auto-monitoring  
 
 ## Ookla (speedtest.net), Seattle WA, (2017-present)
-\- *Data Scientist & Data Engineer*   
+*Data Scientist & Data Engineer*   
 \- Metric development  
 \- Automated hypothesis testing  
 \- Pipeline A/B testing prod vs dev  
@@ -32,7 +32,7 @@ Residence: Boise, ID
 \- Deep dive analysis and reporting  
 
 ## Fred Hutchinson Cancer Research Center, CAVD DataSpace, Seattle WA, (2015-2017)
-\- *Informatics Analyst Programmer*    
+*Informatics Analyst Programmer*    
 \- generated tables, lists, and figures  
 \- Programming: R, SAS, Python, SQL  
 \- Data management of clinical trials data  
@@ -41,32 +41,32 @@ Residence: Boise, ID
 \- Data aggregation, breaking down data silos  
 
 ## IMB Solutions, Moscow ID, (part-time summer 2015)
-\- *Statistics Consultant*   
+*Statistics Consultant*   
 \- Statistical analysis of Kootenai Health medicare billing, over payment estimation.  
 \- Areas of focus: sampling validation and experiment design  
 
 ## University of Idaho, Moscow ID, Statistics Advisory Center (2013-2015)    
-\- *Instructor & Tutor, Teaching Assistant*  
+*Instructor & Tutor, Teaching Assistant*  
 \- Teaching statistics to undergraduate and graduate students  
 \- Graded student work and maintained online grade book  
 \- Assisted students with analysis tools (R, SAS)  
 \- Led an intro R and SAS boot camp  
 
 ## U.S.Fish and Wildlife Service, Anchorage AK, (2014)  
-\- *Internship*  
+*Internship*  
 \- Assisted statistician in meta-study of Juvenile Coho Salmon  
 \- Gathered data from organizations in a professional and persistent manner  
 \- Programmatically aggregated and cleaned data  
 \- Kept comprehensive version control, records, and logs  
 
 ## Private Tutor, Self Employed, Anchorage AK, Moscow ID, Seattel WA, Boise ID (2008-present)   
-\- *Educator*  
+*Educator*  
 \- Math: Algebra, Calculus, Differential Equations, Linear Algebra, general programming  
 \- Stats: Intro statistics, Statistics for Engineers, probability Theory, stat programming  
 \- General Science: chemistry, physics, biology
 
 ## Spokane Bakery Supply, Spokane WA, (part-time 2014-present) 
-\- *Data Report Designer*  
+*Data Report Designer*  
 \- Designed and automated business reports  
 \- SQL templating  
 
