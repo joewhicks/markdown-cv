@@ -2,7 +2,7 @@
 layout: cv
 title: Joe W. Hicks CV
 ---
-# Joe Hicks CV
+# Joe Hicks
 Data Scientist, Statistician, Mathematician
 
 Phone: (907)-903-5201  
