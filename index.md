@@ -27,7 +27,7 @@ Residence: Boise, ID
 *Data Scientist & Data Engineer*   
 \- Metric development  
 \- Automated hypothesis testing  
-\- Pipeline A/B testing prod vs dev  
+\- Pipeline A/B testing  
 \- Fraud/Anomaly detection  
 \- Shiny App development  
 \- Query development and performance tuning  
@@ -35,7 +35,7 @@ Residence: Boise, ID
 
 ## Fred Hutchinson Cancer Research Center, CAVD DataSpace, Seattle WA, (2015-2017)
 *Informatics Analyst Programmer*    
-\- generated tables, lists, and figures  
+\- Generated tables, lists, and figures  
 \- Programming: R, SAS, Python, SQL  
 \- Data management of clinical trials data  
 \- Developed data quality control protocols  
@@ -61,13 +61,13 @@ Residence: Boise, ID
 \- Programmatically aggregated and cleaned data  
 \- Kept comprehensive version control, records, and logs  
 
-## Private Tutor, Self Employed, Anchorage AK, Moscow ID, Seattel WA, Boise ID (2008-present)   
+## Private Tutor, Self Employed, Anchorage AK, Moscow ID, Seattle WA, Boise ID (2008-2015)   
 *Educator*  
 \- Math: Algebra, Calculus, Differential Equations, Linear Algebra, general programming  
 \- Stats: Intro statistics, Statistics for Engineers, probability Theory, stat programming  
 \- General Science: chemistry, physics, biology
 
-## Spokane Bakery Supply, Spokane WA, (part-time 2014-present) 
+## Spokane Bakery Supply, Spokane WA, (part-time 2014-2018) 
 *Data Report Designer*  
 \- Designed and automated business reports  
 \- SQL templating  
