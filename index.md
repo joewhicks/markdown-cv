@@ -10,7 +10,7 @@ Email: joe.hicks.5201@gmail.com
 Residence: Boise, ID   
 
 ## Ookla, Seattle WA
-*speedtest.net*
+*speedtest.net*  
 *Data Scientist & Data Engineer (2017-present)*  
 - Metric development
 - Automated hypothesis testing
@@ -31,13 +31,13 @@ Residence: Boise, ID
 - Data aggregation, breaking down data silos
 
 ## IMB Solutions, Moscow ID
-*Statistics Consultant (part-time summer 2015)*
+*Statistics Consultant (part-time summer 2015)*  
 - Statistical analysis of Kootenai Health medicare billing, over payment estimation.
 - Areas of focus: sampling validation and experiment design
 
-## Teaching Assistant
+## Teaching Assistant, Moscow ID
 *Statistics Advisory Center (2013-2015)*  
-*University of Idaho, Moscow ID*  
+*University of Idaho*  
 *Instructor & Tutor*  
 - Teaching statistics to undergraduate and graduate students
 - Graded student work and maintained online grade book
