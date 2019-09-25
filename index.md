@@ -21,9 +21,8 @@ Residence: Boise, ID
 \- AWS Athena         (2 years): Query unstructured JSON  
 \- Apache Airflow     (2 years): Creating DAGs, and templating sql for auto-monitoring  
 
-## Ookla, Seattle WA
-\- speedtest.net  
-\- Data Scientist & Data Engineer (2017-present)  
+## Ookla (speedtest.net), Seattle WA, (2017-present)
+\- *Data Scientist & Data Engineer*   
 \- Metric development  
 \- Automated hypothesis testing  
 \- Pipeline A/B testing prod vs dev  
@@ -32,9 +31,8 @@ Residence: Boise, ID
 \- Query development and performance tuning  
 \- Deep dive analysis and reporting  
 
-## Fred Hutchinson Cancer Research Center, Seattle WA
-\- SCHARP, CAVD DataSpace  
-\- Informatics Analyst Programmer (2015-2017)  
+## Fred Hutchinson Cancer Research Center, CAVD DataSpace, Seattle WA, (2015-2017)
+\- *Informatics Analyst Programmer*    
 \- generated tables, lists, and figures  
 \- Programming: R, SAS, Python, SQL  
 \- Data management of clinical trials data  
@@ -42,37 +40,33 @@ Residence: Boise, ID
 \- Extract Transform Load (ETL) processes  
 \- Data aggregation, breaking down data silos  
 
-## IMB Solutions, Moscow ID
-\- Statistics Consultant (part-time summer 2015)  
+## IMB Solutions, Moscow ID, (part-time summer 2015)
+\- *Statistics Consultant*   
 \- Statistical analysis of Kootenai Health medicare billing, over payment estimation.  
 \- Areas of focus: sampling validation and experiment design  
 
-## Teaching Assistant, Moscow ID  
-\- Statistics Advisory Center (2013-2015)  
-\- University of Idaho  
-\- Instructor & Tutor  
+## University of Idaho, Moscow ID, Statistics Advisory Center (2013-2015)    
+\- *Instructor & Tutor, Teaching Assistant*  
 \- Teaching statistics to undergraduate and graduate students  
 \- Graded student work and maintained online grade book  
 \- Assisted students with analysis tools (R, SAS)  
 \- Led an intro R and SAS boot camp  
 
-## Internship  
-\- U.S.Fish and Wildlife Service (2014)  
-\- USFW Anchorage AK  
+## U.S.Fish and Wildlife Service, Anchorage AK, (2014)  
+\- *Internship*  
 \- Assisted statistician in meta-study of Juvenile Coho Salmon  
 \- Gathered data from organizations in a professional and persistent manner  
 \- Programmatically aggregated and cleaned data  
 \- Kept comprehensive version control, records, and logs  
 
-## Private Tutor  
-\- Math and Stats, Self Employed (2008-2015)  
-\- Anchorage AK, Moscow ID  
+## Private Tutor, Self Employed, Anchorage AK, Moscow ID, Seattel WA, Boise ID (2008-present)   
+\- *Educator*  
 \- Math: Algebra, Calculus, Differential Equations, Linear Algebra, general programming  
 \- Stats: Intro statistics, Statistics for Engineers, probability Theory, stat programming  
+\- General Science: chemistry, physics, biology
 
-## Data Report Designer  
-\- Spokane Bakery Supply (part-time 2014-present)  
-\- Spokane WA  
+## Spokane Bakery Supply, Spokane WA, (part-time 2014-present) 
+\- *Data Report Designer*  
 \- Designed and automated business reports  
 \- SQL templating  
 
