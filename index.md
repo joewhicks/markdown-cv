@@ -6,7 +6,7 @@ title: Joe W. Hicks CV
 Data Scientist, Statistician, Mathematician
 
 Online CV: https://joewhicks.github.io/markdown-cv/  
-Linkedin: https://www.linkedin.com/in/joe-hicks/
+Linkedin: https://www.linkedin.com/in/joe-hicks/   
 Phone: (907)-903-5201  
 Email: joe.hicks.5201@gmail.com  
 Residence: Boise, ID   
