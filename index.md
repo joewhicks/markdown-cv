@@ -12,19 +12,18 @@ Email: joe.hicks.5201@gmail.com
 Residence: Boise, ID   
 
 ## Technical Skills  
-\- *R	programming*      (10 years): Package and shiny dev, high level R programmer  
+\- *R	programming*      (11 years): Package and shiny dev, high level R programmer  
 \- *Python programming* (6 years): ML and scientific programming   
-\- *Unix systems*       (6 years): Open Suse, Ubuntu, bash  
-\- *Markdown*           (6 years): Report writing and reporting  
+\- *Unix systems*       (7 years): Open Suse, Ubuntu, bash  
+\- *Markdown*           (7 years): Report writing and reporting  
 \- *SAS*                (4 years): CDISC training on ADaM data sets (FDA standard)  
-\- *GitHub*             (4 years): https://github.com/joewhicks  
+\- *GitHub*             (6 years): https://github.com/joewhicks  
 \- *PostgreSQL*         (4 years): Personal database for data projects  
-\- *AWS Redshift*       (2 years): Query development and tuning on large data sets  
-\- *AWS Athena*         (2 years): Query unstructured JSON  
-\- *Apache Airflow*     (2 years): Creating DAGs, and templating sql for auto-monitoring  
+\- *AWS Redshift*       (4 years): Query development and tuning on large data sets  
+\- *AWS Athena*         (4 years): Query unstructured JSON   
 
 ## Ookla (speedtest.net), Seattle WA, (2017-present)
-*Data Scientist & Data Engineer*   
+*Senior Data Analyst*   
 \- Metric development  
 \- Automated hypothesis testing  
 \- Pipeline A/B testing  
